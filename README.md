@@ -19,4 +19,7 @@ Visualizing using Meaningful Charts:
 
 Utilize various chart types in Excel to visually represent the identified KPIs and insights, facilitating easy comprehension for stakeholders.
 
+![Dashboard Screenshot](https://github.com/nwasany74/Orders-KPIs-Dashboard-using-Excel/blob/main/Screenshot%20(959).png?raw=true)
+
+
 
